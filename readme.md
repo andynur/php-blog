@@ -1,3 +1,3 @@
-#CRUD PHP Native
+# Simple Blog with PHP Native
 
-Berikut adalah contoh CRUD dengan PHP native dan mysqli.
+This repo is a resource for 10 Days Laravel Bootcamp @ CND Coder.
